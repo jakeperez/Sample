@@ -2,7 +2,6 @@
   "buildCommand": "npm run build",
   "outputDirectory": "public",
   "cleanUrls": true,
-  "functions": { "api/*.js": { "maxDuration": 15 } },
   "headers": [
     {
       "source": "/(.*)",
